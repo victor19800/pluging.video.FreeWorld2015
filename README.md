@@ -1,1 +1,2 @@
-# FREEWORLD2015
+# soloman
+Solo Man Addon
